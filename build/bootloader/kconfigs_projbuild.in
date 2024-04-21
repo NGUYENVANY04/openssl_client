@@ -1,0 +1,3 @@
+source "/home/ynghia/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/ynghia/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/ynghia/esp-idf/components/partition_table/Kconfig.projbuild"

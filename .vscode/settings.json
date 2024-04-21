@@ -1,0 +1,11 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32",
+  "idf.port": "/dev/ttyUSB0",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "ssl.h": "c",
+    "freertos.h": "c",
+    "openssl_client_example.h": "c"
+  }
+}

@@ -1,0 +1,6 @@
+source "/home/ynghia/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/ynghia/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/ynghia/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/ynghia/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/ynghia/CODE/IDF_SOURCECODE/openssl_client/main/Kconfig.projbuild"
+source "/home/ynghia/esp-idf/examples/common_components/protocol_examples_common/Kconfig.projbuild"
